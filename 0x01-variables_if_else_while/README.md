@@ -1,1 +1,3 @@
-# Variables, if, else, while in C Language
+# ALX Week 3
+# C Language
+Variables, if and else
