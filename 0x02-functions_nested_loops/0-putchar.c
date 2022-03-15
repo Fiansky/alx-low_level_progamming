@@ -1,17 +1,19 @@
-#include "holberton.h"
+#include "main.h"
+/**
+   Description: prints _putchar
+   Return: 0 (If it is a success)
+ */
 
 int main(void)
 {
-	char c[10] = "Holberton";
-
+	char text[9] = "_putchar";
 	int i = 0;
 
-	while (i < 9)
+	for (i = 0; i < 8; i++)
 	{
-		_putchar(c[i]);
-		i++;
+		_putchar(text[i]);
 	}
 	_putchar('\n');
+
 	return (0);
 }
-
