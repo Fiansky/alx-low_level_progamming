@@ -1,1 +1,2 @@
-This folder contains my files on the Pointers, Arrays and Strings task
+Currently working on Pointers, Arrays and Strings
+A continuation of the project on ALX
