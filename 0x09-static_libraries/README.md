@@ -1,1 +1,1 @@
-Static libraries
+This is a poject on static libraries
